@@ -85,6 +85,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjali12213443&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjali12213443&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
