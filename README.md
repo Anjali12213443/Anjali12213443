@@ -85,10 +85,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjali12213443&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
-## GitHub Trophies
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anjali12213443&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali12213443&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ## Connect With Me
