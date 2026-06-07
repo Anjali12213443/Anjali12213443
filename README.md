@@ -75,7 +75,8 @@
 | [End-to-End MLOps Pipeline](https://github.com/Anjali12213443/mlops_pipeline) | Machine failure detection with experiment tracking, REST API, and drift monitoring | MLflow, FastAPI, Evidently, Random Forest |
 | [Anomaly Detection Pipeline](https://github.com/Anjali12213443/anomaly-detection-pipeline) | Time-series anomaly detection comparing 3 models on industrial sensor data | PyTorch, Isolation Forest, Plotly Dash |
 | [Predictive Maintenance RUL](https://github.com/Anjali12213443/predictive-maintenance-rul) | Remaining Useful Life prediction on NASA turbofan engine data | XGBoost, MLflow, FastAPI, Docker |
-| [Sleep Quality Prediction](https://github.com/Anjali12213443/sleep-quality-prediction-allofus) | Sleep quality prediction from Fitbit data using LSTM and Transformer models | PyTorch, LSTM, XGBoost, Transformer |
+| [Sleep Quality Prediction](https://github.com/Anjali12213443/sleep-quality-prediction-allofus) | Sleep quality prediction from Fitbit data using LSTM and Transformer models | PyTorch, LSTM, XGBoost, Transformer | 
+| [NLP Sentiment Analysis Pipeline](https://github.com/Anjali12213443/nlp-sentiment-pipeline) | End-to-end sentiment analysis on IMDb reviews with BERT fine-tuning and live Streamlit app | BERT, HuggingFace, Scikit-learn, Streamlit |
 
 ---
 
