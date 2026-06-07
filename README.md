@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anjali Velu Ramalingam </h1>
 
 <p align="center">
-  <b>Data Scientist | MS in Data Science & Analytics | AI Minor</b><br>
+  <b>MS in Data Science & Analytics | AI Minor</b><br>
   Passionate about building end-to-end ML systems that solve real-world problems
 </p>
 
