@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anjali Velu Ramalingam 👋</h1>
+<h1 align="center">Hi, I'm Anjali Velu Ramalingam </h1>
 
 <p align="center">
   <b>Data Scientist | MS in Data Science & Analytics | AI Minor</b><br>
