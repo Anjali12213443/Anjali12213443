@@ -63,10 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjali12213443&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali12213443&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%"/>
-</p>
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
