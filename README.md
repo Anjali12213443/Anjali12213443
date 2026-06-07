@@ -5,6 +5,9 @@
   Passionate about building end-to-end ML systems that solve real-world problems
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anjali12213443&color=2E75B6&style=flat-square&label=Profile+Views"/>
+</p>
 ---
 
 ## About Me
